@@ -1,0 +1,334 @@
+[
+    {
+        "id": 1,
+        "receta_id": 1,
+        "personas": [
+            "Carlos Jim\u00e9nez",
+            "Ana Morales"
+        ],
+        "fecha": "2024-05-01",
+        "costo_asociado": 2.096722974907661,
+        "resultado": "pH final: 7.0, rendimiento: 92%. Dentro de par\u00e1metros.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 2,
+        "receta_id": 1,
+        "personas": [
+            "Marta P\u00e9rez"
+        ],
+        "fecha": "2024-05-10",
+        "costo_asociado": 2.2116623501337664,
+        "resultado": "pH final: 7.6, fuera de rango. Exceso de NaOH.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 3,
+        "receta_id": 2,
+        "personas": [
+            "Luis Contreras"
+        ],
+        "fecha": "2024-06-15",
+        "costo_asociado": 441.15673492656254,
+        "resultado": "Porcentaje etanol: 85%. Destilaci\u00f3n satisfactoria.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 4,
+        "receta_id": 3,
+        "personas": [
+            "Sof\u00eda Delgado",
+            "Pablo Rossi"
+        ],
+        "fecha": "2024-06-20",
+        "costo_asociado": 25.903234103876628,
+        "resultado": "Cambio color rojo ladrillo. Az\u00facar reductor presente.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 5,
+        "receta_id": 4,
+        "personas": [
+            "Jos\u00e9 Figueroa"
+        ],
+        "fecha": "2024-07-01",
+        "costo_asociado": 2.151951751052863,
+        "resultado": "Normalidad KMnO4 = 0.15. Titulaci\u00f3n exitosa.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 6,
+        "receta_id": 5,
+        "personas": [
+            "Luc\u00eda G\u00f3mez"
+        ],
+        "fecha": "2024-07-05",
+        "costo_asociado": 1.1512840810857907,
+        "resultado": "Masa de precipitado = 0.8 g. Detecci\u00f3n de cloruros.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 7,
+        "receta_id": 6,
+        "personas": [
+            "Andr\u00e9s Mata"
+        ],
+        "fecha": "2024-07-12",
+        "costo_asociado": 3.543310322591733,
+        "resultado": "%acidez = 4.5. Dentro de rango del vinagre comercial.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 8,
+        "receta_id": 7,
+        "personas": [
+            "Ximena Ruiz"
+        ],
+        "fecha": "2024-07-18",
+        "costo_asociado": 23.459809605011067,
+        "resultado": "Dureza del agua = 150 ppm CaCO3.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 9,
+        "receta_id": 8,
+        "personas": [
+            "Clara Vel\u00e1squez"
+        ],
+        "fecha": "2024-07-25",
+        "costo_asociado": 14.010612593264822,
+        "resultado": "pH final buffer: 7.2. Correcto.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 10,
+        "receta_id": 9,
+        "personas": [
+            "Alberto Sierra"
+        ],
+        "fecha": "2024-08-01",
+        "costo_asociado": 1.444809352335534,
+        "resultado": "Rendimiento jab\u00f3n: 80%. Aceptable.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 11,
+        "receta_id": 10,
+        "personas": [
+            "Gloria Medina"
+        ],
+        "fecha": "2024-08-05",
+        "costo_asociado": 4.731031304837436,
+        "resultado": "%sal = 2.1. Dentro de lo esperado.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 12,
+        "receta_id": 11,
+        "personas": [
+            "Pedro Gil"
+        ],
+        "fecha": "2024-08-10",
+        "costo_asociado": 13.307126602807218,
+        "resultado": "Coloraci\u00f3n intensa (4/5). Az\u00facares reductores confirmados.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 13,
+        "receta_id": 12,
+        "personas": [
+            "F\u00e1tima Torres"
+        ],
+        "fecha": "2024-08-15",
+        "costo_asociado": 6.119483768766315,
+        "resultado": "pH suelo: 6.2. Ligeramente \u00e1cido.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 14,
+        "receta_id": 13,
+        "personas": [
+            "Ricardo Salas"
+        ],
+        "fecha": "2024-08-20",
+        "costo_asociado": 5.950838119176989,
+        "resultado": "Rf de pigmento principal: 0.65. Separaci\u00f3n clara.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 15,
+        "receta_id": 14,
+        "personas": [
+            "Pablo Vargas"
+        ],
+        "fecha": "2024-08-25",
+        "costo_asociado": 2.1177029490732093,
+        "resultado": "Color llama = 3 (amarillo intenso). Indica sodio.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 16,
+        "receta_id": 15,
+        "personas": [
+            "Carolina Meza"
+        ],
+        "fecha": "2024-08-30",
+        "costo_asociado": 67.57934014121038,
+        "resultado": "Tasa de evaporaci\u00f3n = 3 g/10min. Alta volatilidad.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 17,
+        "receta_id": 16,
+        "personas": [
+            "Sergio Acosta"
+        ],
+        "fecha": "2024-09-05",
+        "costo_asociado": 11.54582376651878,
+        "resultado": "Extracci\u00f3n al 75%. Eficiente.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 18,
+        "receta_id": 17,
+        "personas": [
+            "Tatiana Herrera"
+        ],
+        "fecha": "2024-09-10",
+        "costo_asociado": 42.084814226029515,
+        "resultado": "Concentraci\u00f3n NH3 ~9%. Correcto.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 19,
+        "receta_id": 18,
+        "personas": [
+            "Gustavo Ortega"
+        ],
+        "fecha": "2024-09-15",
+        "costo_asociado": 33.595293322660524,
+        "resultado": "Volumen O2 = 250 mL. Reacci\u00f3n moderada.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 20,
+        "receta_id": 19,
+        "personas": [
+            "Beatriz Mart\u00edn"
+        ],
+        "fecha": "2024-09-20",
+        "costo_asociado": 4.160646276956783,
+        "resultado": "Masa CaCO3 = 3.2 g. Satisfactorio.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 21,
+        "receta_id": 20,
+        "personas": [
+            "Miguel Urbina"
+        ],
+        "fecha": "2024-09-25",
+        "costo_asociado": 14.130329295182177,
+        "resultado": "pH final del buffer: 7.0. Dentro de rango.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 22,
+        "receta_id": 21,
+        "personas": [
+            "Alejandra Quintero"
+        ],
+        "fecha": "2024-09-30",
+        "costo_asociado": 4.242731710645526,
+        "resultado": "Fallo por falta de inventario.",
+        "fallo_por_inventario": true
+    },
+    {
+        "id": 23,
+        "receta_id": 22,
+        "personas": [
+            "Ra\u00fal Villanueva"
+        ],
+        "fecha": "2024-10-05",
+        "costo_asociado": 13.376470507238224,
+        "resultado": "Rendimiento de prote\u00edna: 60%. Parcial.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 24,
+        "receta_id": 23,
+        "personas": [
+            "Isabel Garc\u00eda"
+        ],
+        "fecha": "2024-10-10",
+        "costo_asociado": 11.012638851244589,
+        "resultado": "Intensidad color = 3. Almid\u00f3n presente.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 25,
+        "receta_id": 24,
+        "personas": [
+            "Daniel Castillo"
+        ],
+        "fecha": "2024-10-15",
+        "costo_asociado": 10.563407953786614,
+        "resultado": "TDS = 1500 mg/L. Alta concentraci\u00f3n.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 26,
+        "receta_id": 25,
+        "personas": [
+            "Victoria Est\u00e9vez"
+        ],
+        "fecha": "2024-10-20",
+        "costo_asociado": 5.459715919302504,
+        "resultado": "Fallo por falta de inventario.",
+        "fallo_por_inventario": true
+    },
+    {
+        "id": 27,
+        "receta_id": 26,
+        "personas": [
+            "Rodrigo Laguna"
+        ],
+        "fecha": "2024-10-25",
+        "costo_asociado": 4.0425492902299025,
+        "resultado": "Acidez equivalente = 0.4N. Dentro del rango.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 28,
+        "receta_id": 27,
+        "personas": [
+            "Camila Sosa"
+        ],
+        "fecha": "2024-10-30",
+        "costo_asociado": 2.1257468268910915,
+        "resultado": "%\u00e1cido l\u00e1ctico = 0.15. Leche normal.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 29,
+        "receta_id": 28,
+        "personas": [
+            "Valeria Pinto"
+        ],
+        "fecha": "2024-11-05",
+        "costo_asociado": 8.301006358098839,
+        "resultado": "CO2 liberado = 300 mL. Fermentaci\u00f3n exitosa.",
+        "fallo_por_inventario": false
+    },
+    {
+        "id": 30,
+        "receta_id": 29,
+        "personas": [
+            "Julio Fern\u00e1ndez"
+        ],
+        "fecha": "2024-11-10",
+        "costo_asociado": 3.2628513401966233,
+        "resultado": "Absorbancia = 1.2. Complejo violeta evidente.",
+        "fallo_por_inventario": false
+    }
+]
